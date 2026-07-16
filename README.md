@@ -71,7 +71,6 @@ The forecasting models were evaluated using:
 |------|-------------|
 | `Germany_Electricity_Demand_Forecasting.ipynb` | Complete notebook containing data preprocessing, model development and evaluation. |
 | `best_sarima_results.csv` | SARIMA parameter combinations with their corresponding AIC and BIC values used during model selection. |
-| `Time_Series_Modelling_Report.pdf` | Final coursework report. |
 | `README.md` | Project overview, repository structure and instructions for running the notebook. 
 
 
